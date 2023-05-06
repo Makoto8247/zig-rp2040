@@ -3,7 +3,9 @@ Zig言語を使って、Raspberry Pi Picoで利用可能なUF2ファイルをビ
 Zig version: 0.11.0-dev.2983+f05cd008d
 
 ## ビルド方法
-'''
+
+```cmd
 zig build
-'''
+```
+
 このコマンドを実行した後にzig-out/main.uf2ファイルが生成されます
